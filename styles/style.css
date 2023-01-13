@@ -198,7 +198,7 @@ margin-top: 100px;
 }
 
 .feynman {
-  height: 890px;
+  min-height: 890px;
   position: relative;
   display: flex;
   flex-direction: column;
@@ -297,7 +297,7 @@ margin-top: 100px;
 
 .footer__columns {
   width: 90%;
-  height: 350px;
+  min-height: 350px;
   display: flex;
   margin: auto;
   justify-content: space-between;
