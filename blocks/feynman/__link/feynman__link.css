@@ -10,5 +10,5 @@
 }
   
 .feynman__link:hover {
-    color: blue;
+    opacity: 0.7;
 }
